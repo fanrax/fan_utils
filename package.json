@@ -1,0 +1,19 @@
+{
+  "name": "fanrx_utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanrax/fan_utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanrax/fan_utils/issues"
+  },
+  "homepage": "https://github.com/fanrax/fan_utils#readme"
+}
